@@ -15,9 +15,9 @@ display:none;;
     .example-modal .modal {
       background: transparent !important;
     }
-    
+
     #alertDiv{
-    	
+
 	    position: fixed;
 	    z-index: 99999;
 	    width: 330px;
@@ -48,7 +48,7 @@ display:none;;
               </div>
 </div>
   <header class="main-header">
-	
+
     <!-- Logo -->
     <a href="${baseURL }/index" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
@@ -66,7 +66,7 @@ display:none;;
       <!-- Navbar Right Menu -->
       <div class="navbar-custom-menu">
         <ul class="nav navbar-nav">
-         
+
           <!-- User Account: style can be found in dropdown.less -->
           <li class="dropdown user user-menu">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
